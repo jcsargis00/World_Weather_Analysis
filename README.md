@@ -48,6 +48,7 @@ Go to directory Weather_Database to find files
 #### https://github.com/jcsargis00/World_Weather_Analysis/tree/main/Weather_Database/Vacation_Search/Vacation_Itinerary
 #
 Go to directory Weather_Database/Vacation_Search/Vacation_Itinerary to find files:
+#
     - Vacation_Itinerary.ipynb
     - WeatherPy_travel_map.png
     - WeatherPy_travel_map_markers.png
