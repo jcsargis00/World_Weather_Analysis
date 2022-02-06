@@ -40,6 +40,8 @@ Go to directory Weather_Database/Vacation_Search to find files:
     - Country
     - Current weather description with the maximum temperature
 * The marker layer map is saved and uploaded to the Vacation_Search folder as WeatherPy_vacation_map.png. 
+### Maximum Temperature >50 degrees and <90
+![world map by temperature preferences]('https://github.com/jcsargis00/World_Weather_Analysis/blob/main/Weather_Database/Vacation_Search/WeatherPy_vacation_map.PNG')
 ### Deliverable #3
 #
 Go to directory Weather_Database/Vacation_Itinerary to find files:
@@ -56,6 +58,8 @@ Go to directory Weather_Database/Vacation_Itinerary to find files:
     * City
     * Country
     * Current weather description with the maximum temperature
+#### Vacation Itinerary - four cities near the famous Skeleton Coast in Africa
+![Vacation Itinerary]('https://github.com/jcsargis00/World_Weather_Analysis/blob/main/Weather_Database/Vacation_Search/Vacation_Itinerary/WeatherPy_travel_map.png')
 
 
 
