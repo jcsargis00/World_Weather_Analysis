@@ -23,7 +23,7 @@ Go to directory Weather_Database to find files
 3. Export the DataFrame as WeatherPy_Database.csv into the Weather_Database folder 
 #
 ### Deliverable #2
-#
+# https://github.com/jcsargis00/World_Weather_Analysis/tree/main/Weather_Database/Vacation_Search
 Go to directory Weather_Database/Vacation_Search to find files:
 #
     - Vacation_Search.ipynb 
@@ -43,8 +43,8 @@ Go to directory Weather_Database/Vacation_Search to find files:
 ### Maximum Temperature >50 degrees and <90
 ![world map by temperature preferences](https://github.com/jcsargis00/World_Weather_Analysis/blob/main/Weather_Database/Vacation_Search/WeatherPy_vacation_map.PNG)
 ### Deliverable #3
-#
-Go to directory Weather_Database/Vacation_Itinerary to find files:
+# https://github.com/jcsargis00/World_Weather_Analysis/tree/main/Weather_Database/Vacation_Search/Vacation_Itinerary
+Go to directory Weather_Database/Vacation_Search/Vacation_Itinerary to find files:
     - Vacation_Itinerary.ipynb
     - WeatherPy_travel_map.png
     - WeatherPy_travel_map_markers.png
